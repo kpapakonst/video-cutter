@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VideoCutter.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "-v \"C:\\Users\\Konstantinos\\Downloads\\li.mp4\" -c \"C:\\learning\\VideoCutter\\VideoCutter\\VideoCutter.Console\\bin\\Debug\\net6.0\\input.txt\""
+    }
+  }
+}
