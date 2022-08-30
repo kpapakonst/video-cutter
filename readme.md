@@ -14,8 +14,8 @@ For example to create 2 clips:
 
 a text file with the following contents would have to be used:
 
-00:00:05    00:00:09
-00:01:03    00:01:10
+00:00:05&nbsp;&nbsp;&nbsp;&nbsp;00:00:09\
+00:01:03&nbsp;&nbsp;&nbsp;&nbsp;00:01:10
 
 You can find an example clips file [here](sample/clips.txt)
 
